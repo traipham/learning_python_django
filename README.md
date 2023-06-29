@@ -3,7 +3,7 @@ First Step: Learn Python Django.
 
 Follow this tutorial: https://www.youtube.com/watch?v=rHux0gMZ3Eg&ab_channel=ProgrammingwithMosh
 
-Left off at: 6:29/1:02:35
+Left off at: 22:07/1:02:35
 
 Notes:
 - What is Django? 
@@ -14,3 +14,21 @@ Notes:
     - Authentication
     - Caching
   - Huge community
+
+- Basics of Django
+  - Frontend(FE)/CLient
+    - Client sends request --> Web server --> Server sends back response
+      - Best Practice: Have client generate Web Pages
+    - Tools: React, Agular, Vue
+  - Backend(BE)/Server
+    - URL = uniform resource locator
+    - HTTPS = Hyper Text Transfer Protocol: How clients and server communicates to one another
+    - Functionality:
+      - Sending back data
+      - Sending back HTML document (or have client generate)
+    - Tools: Django, ASP.NET Core, Express, JS
+    - Build API from Django
+  - Start Django Project with: `django-admin startproject <project_name>`
+  - Run Django server with: `python3 manage.py runserver`
+    - manage.py is the same as `django-admin`
+    - 
