@@ -3,7 +3,7 @@ First Step: Learn Python Django.
 
 Follow this tutorial: https://www.youtube.com/watch?v=rHux0gMZ3Eg&ab_channel=ProgrammingwithMosh
 
-Left off at: 22:07/1:02:35
+Left off at: 32:07/1:02:35
 
 Notes:
 - What is Django? 
@@ -31,4 +31,6 @@ Notes:
   - Start Django Project with: `django-admin startproject <project_name>`
   - Run Django server with: `python3 manage.py runserver`
     - manage.py is the same as `django-admin`
-    - 
+  - Views:
+    - file that stores request handlers, mapping request to url
+    - Remember to set url configuration files and add it to main server's urls.py file
