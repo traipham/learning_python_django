@@ -2,7 +2,10 @@
 First Step: Learn Python Django.
 
 Follow this tutorial: https://www.youtube.com/watch?v=rHux0gMZ3Eg&ab_channel=ProgrammingwithMosh  [COMPLETE!]
-
+Follow next tutorial for Django (7 hrs): https://www.youtube.com/watch?v=PtQiiknWUcI&ab_channel=TraversyMedia
+Follow this tutorial for React + Django (3 hrs): https://www.youtube.com/watch?v=tYKRAXIio28&ab_channel=DennisIvy
+Follow this tutorial for React + Django (3 hrs): https://www.youtube.com/watch?v=kfpY5BsIoFg&list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60&index=7&ab_channel=TraversyMedia
+Follow this tutorial for React (11 hrs) : https://www.youtube.com/watch?v=bMknfKXIFA8&ab_channel=freeCodeCamp.org 
 Notes:
 - What is Django? 
   - Free and open source project that helps build web apps with python 
