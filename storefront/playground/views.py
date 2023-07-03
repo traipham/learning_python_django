@@ -8,5 +8,11 @@ request -> response
 
 # Create your views here.
 
+def calculate(x:int = 1, y:int = 2):
+    return x * y
+
 def say_hello(request) -> HttpResponse:
-    return HttpResponse('Hello World')
+    res = calculate()
+    dict_val = {'name': 'Trai'}
+    return render(request, 'hello.html', dict_val)
+    # return HttpResponse('Hello World')
