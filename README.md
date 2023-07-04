@@ -1,13 +1,14 @@
 # learning_python_django
 First Step: Learn Python Django.
 
-Follow this tutorial: https://www.youtube.com/watch?v=rHux0gMZ3Eg&ab_channel=ProgrammingwithMosh  [COMPLETE!]
-Follow next tutorial for Django (7 hrs): https://www.youtube.com/watch?v=PtQiiknWUcI&ab_channel=TraversyMedia
-Follow this tutorial for React + Django (3 hrs): https://www.youtube.com/watch?v=tYKRAXIio28&ab_channel=DennisIvy
-Follow this tutorial for React + Django (3 hrs): https://www.youtube.com/watch?v=kfpY5BsIoFg&list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60&index=7&ab_channel=TraversyMedia
-Follow this tutorial for React (11 hrs) : https://www.youtube.com/watch?v=bMknfKXIFA8&ab_channel=freeCodeCamp.org 
-Notes:
-- What is Django? 
+1. Follow this tutorial: https://www.youtube.com/watch?v=rHux0gMZ3Eg&ab_channel=ProgrammingwithMosh  [COMPLETE!]
+2. Follow next tutorial for Django (7 hrs): https://www.youtube.com/watch?v=PtQiiknWUcI&ab_channel=TraversyMedia
+3. Follow this tutorial for React + Django (3 hrs): https://www.youtube.com/watch?v=tYKRAXIio28&ab_channel=DennisIvy
+4. Follow this tutorial for React + Django (3 hrs): https://www.youtube.com/watch?v=kfpY5BsIoFg&list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60&index=7&ab_channel=TraversyMedia
+5. Follow this tutorial for React (11 hrs) : https://www.youtube.com/watch?v=bMknfKXIFA8&ab_channel=freeCodeCamp.org 
+
+# Notes:
+- **What is Django**? 
   - Free and open source project that helps build web apps with python 
   - Have a lot of features
     - admin interface
@@ -16,12 +17,12 @@ Notes:
     - Caching
   - Huge community
 
-- Basics of Django
-  - Frontend(FE)/CLient
+- **Basics of Django**
+  - *Frontend(FE)/CLient*
     - Client sends request --> Web server --> Server sends back response
       - Best Practice: Have client generate Web Pages
     - Tools: React, Agular, Vue
-  - Backend(BE)/Server
+  - *Backend(BE)/Server*
     - URL = uniform resource locator
     - HTTPS = Hyper Text Transfer Protocol: How clients and server communicates to one another
     - Functionality:
@@ -29,19 +30,19 @@ Notes:
       - Sending back HTML document (or have client generate)
     - Tools: Django, ASP.NET Core, Express, JS
     - Build API from Django
-  - Start Django Project with: `django-admin startproject <project_name>`
-  - Run Django server with: `python3 manage.py runserver`
+  - **Start Django Project** with: `django-admin startproject <project_name>`
+  - **Run Django server** with: `python3 manage.py runserver`
     - manage.py is the same as `django-admin`
-  - Views:
+  - **Views**:
     - file that stores request handlers, need to map request to url
     - Remember to set url configuration files and add it to main server's urls.py file
-  - Template: 
+  - **Template**: 
     - Allows us to return HTML markup pages 
     - Don't usually use Template with Django
-  - Debug: 
+  - **Debug**: 
     - Use VsCode debugger, open server to see page, and add breakpoints
     - Use Django Debug toolbar ([Documentation](https://django-debug-toolbar.readthedocs.io/en/latest/))
-  - Models:
+  - **Models**:
     - Used to store and retrieve data
     - Data modeling
       - Know the product's attributes: {title, description, price, inventory}
