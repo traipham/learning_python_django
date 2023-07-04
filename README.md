@@ -3,9 +3,10 @@ First Step: Learn Python Django.
 
 1. Follow this tutorial: https://www.youtube.com/watch?v=rHux0gMZ3Eg&ab_channel=ProgrammingwithMosh  [COMPLETE!]
 2. Follow next tutorial for Django (7 hrs): https://www.youtube.com/watch?v=PtQiiknWUcI&ab_channel=TraversyMedia
-3. Follow this tutorial for React + Django (3 hrs): https://www.youtube.com/watch?v=tYKRAXIio28&ab_channel=DennisIvy
-4. Follow this tutorial for React + Django (3 hrs): https://www.youtube.com/watch?v=kfpY5BsIoFg&list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60&index=7&ab_channel=TraversyMedia
-5. Follow this tutorial for React (11 hrs) : https://www.youtube.com/watch?v=bMknfKXIFA8&ab_channel=freeCodeCamp.org 
+3. Follow this tutorial for React (1 hr): https://www.youtube.com/watch?v=b9eMGE7QtTk&ab_channel=JavaScriptMastery
+4. Follow this tutorial for React + Django (3 hrs): https://www.youtube.com/watch?v=tYKRAXIio28&ab_channel=DennisIvy
+5. Follow this tutorial for React + Django (3 hrs): https://www.youtube.com/watch?v=kfpY5BsIoFg&list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60&index=7&ab_channel=TraversyMedia
+6. Follow this tutorial for React (11 hrs) : https://www.youtube.com/watch?v=bMknfKXIFA8&ab_channel=freeCodeCamp.org 
 
 # Notes:
 - **What is Django**? 
