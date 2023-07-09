@@ -1,3 +1,6 @@
 [submodule "react_review"]
 	path = react_review
 	url = https://github.com/traipham/react_review.git
+[submodule "notes_app"]
+	path = notes_app
+	url = https://github.com/traipham/notes_app.git
